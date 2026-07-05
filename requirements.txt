@@ -1,0 +1,7 @@
+requests
+peft
+transformers
+datasets
+pandas
+gradio
+torch
