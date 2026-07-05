@@ -1,0 +1,4 @@
+mcmod_data.db
+mcmod-model/
+__pycache__/
+*.pyc
